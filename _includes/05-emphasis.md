@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_My favorite subjects back when I was in school were:_
+- **Math**
+- **Physics**
+- **Chemistry**
+- **P.E.**
