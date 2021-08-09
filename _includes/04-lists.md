@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+My favorite subjects back when I was in school were:
+- Math
+- Physics
+- Chemistry
+- P.E.
